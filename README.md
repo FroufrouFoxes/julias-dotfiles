@@ -4,9 +4,9 @@ Hyprland running on Arch Linux
 
 Terminal: kitty
 
-Shell: zsh
+Shell: zsh, bash
 
-Text editor: micro nano vim emacs
+Text editor: micro, nano, vim, emacs
 
 Browser: firefox
 
