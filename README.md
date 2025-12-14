@@ -19,8 +19,8 @@ File manager: yazi
 Drun: wofi 
 
 ..
-Bluetooth utility: bluez, bluez-utils
 
+Bluetooth utility: bluez, bluez-utils
 
 Screenshot tool: grim slurp
 
@@ -30,9 +30,11 @@ Audio utility: pipewire
 
 Notification utility: mako
 
+..
 
 Fonts: noto-fonts, gnu-free-fonts
 
+..
 
 Paint tool: krita
 
@@ -44,6 +46,7 @@ Screen recorder: obs-studio
 
 Audio recorder: audacity
 
+..
 
 Unsorted:
 steam
