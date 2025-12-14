@@ -18,7 +18,7 @@ File manager: yazi
 
 Drun: wofi 
 
-
+..
 Bluetooth utility: bluez, bluez-utils
 
 
