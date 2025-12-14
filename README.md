@@ -3,27 +3,47 @@ My linux configurations, keybinds, and software.
 Hyprland running on Arch Linux
 
 Terminal: kitty
+
 Shell: zsh
-Text editor: micro
+
+Text editor: micro nano vim emacs
+
 Browser: firefox
+
 Media player: vlc
+
 Notes tool: obsidian
+
 File manager: yazi
+
 Drun: wofi 
 
+
 Bluetooth utility: bluez, bluez-utils
+
+
 Screenshot tool: grim slurp
+
 Clipboard: wl-clipboard
+
 Audio utility: pipewire 
+
 Notification utility: mako
+
 
 Fonts: noto-fonts, gnu-free-fonts
 
+
 Paint tool: krita
+
 Photo editor: gimp
+
 3D editor: blender
+
 Screen recorder: obs-studio
+
 Audio recorder: audacity
+
 
 Unsorted:
 steam
