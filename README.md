@@ -1,4 +1,4 @@
-# julias-dotfiles
+mM# julias-dotfiles
 My linux configurations, keybinds, and software.
 Hyprland running on Arch Linux
 
@@ -6,7 +6,7 @@ Terminal: kitty
 
 Shell: zsh, bash
 
-Text editor: micro, vim
+Text editor: micro, neovim
 
 Browser: firefox torbrowser-launcher
 
@@ -22,11 +22,13 @@ Drun: wofi
 
 Bluetooth utility: bluez, bluez-utils
 
+Network manager: iwd, networkmanager
+
 Screenshot tool: grim slurp
 
 Clipboard: wl-clipboard
 
-Audio utility: pipewire 
+Audio utility: pipewire, pavucontorl
 
 Notification utility: mako
 
@@ -53,4 +55,8 @@ Audio recorder: audacity
 UNSORTED
 Zip tool: 7zip
 
-Brightnessctl
+Brightnessctl, pokeget, python, tmux
+
+hyprpaper, hyprpicker
+
+mesa, base-devel, openssh, polkit, sudo, xdg_desktop_portal_hyprlandp 
