@@ -1,4 +1,4 @@
-mM# julias-dotfiles
+julias-dotfiles
 My linux configurations, keybinds, and software.
 Hyprland running on Arch Linux
 
