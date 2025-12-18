@@ -6,11 +6,11 @@ Terminal: kitty
 
 Shell: zsh, bash
 
-Text editor: micro, nano, vim, emacs
+Text editor: micro, vim
 
-Browser: firefox
+Browser: firefox torbrowser-launcher
 
-Media player: vlc
+Media player: vlc, audacious
 
 Notes tool: obsidian
 
@@ -32,7 +32,9 @@ Notification utility: mako
 
 ..
 
-Fonts: noto-fonts, gnu-free-fonts
+Fonts: JuliaMono, JuliaMono Nerd Fonts, adwaita
+
+Font Manager: font-manager, font config
 
 ..
 
@@ -48,25 +50,7 @@ Audio recorder: audacity
 
 ..
 
-Unsorted:
-steam
-hyprpaper
-base-devel
-brightnessctl
-networkmanager
-sudo
-polkit
-polkit-kde-agent
-openssh
-smartmontools
-iwd
-wget
-qt5-wayland
-qt6-wayland
-mesa
-libva-mesa-driver
-linux
-linux-lts
-linux-headers
-linux-lts-headers
-linux-firmware
+UNSORTED
+Zip tool: 7zip
+
+Brightnessctl
